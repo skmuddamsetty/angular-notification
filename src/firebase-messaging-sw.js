@@ -4,7 +4,7 @@ importScripts(
 );
 
 firebase.initializeApp({
-  messagingSenderId: "915290886379",
+  messagingSenderId: "",
 });
 
 const messaging = firebase.messaging();
